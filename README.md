@@ -54,7 +54,7 @@ Act of Kindness web app connects users on a meaningful level (not like any other
 
 # Getting Started
 
-Clone this repo.
+Clone this repository.
 ```
 git clone https://github.com/MarcinSzkurlat/ActOfKindness.git
 ```
@@ -67,4 +67,15 @@ docker compose up
 You should be able to browse the application by using the below URL:
 ```
 http://localhost:3000
+```
+
+You can test the application as `admin`.
+
+Login:
+```
+admin@test.com
+```
+Password:
+```
+ActOfKindness2023,
 ```
